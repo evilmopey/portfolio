@@ -4,6 +4,7 @@ import './img/cloud-mountain.jpg'
 import './img/panda.jpg'
 import './img/tie.jpg'
 import './img/doge.jpg'
+import './img/favicon.png'
 import 'animate.css' 
 import Glide from '@glidejs/glide'
 
