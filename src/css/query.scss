@@ -1,0 +1,29 @@
+@media only screen and (max-width: 1024px){
+.glide-wrapper{margin-top: 230px;}
+.twt-wrap{ width: 80%; margin-left: auto; margin-right: auto;}
+}
+
+@media only screen and (max-width: 768px){
+    .glide-wrapper{margin-top: 200px}
+    footer{font-size: 80%;}
+}
+
+@media only screen and (max-width: 425px){
+    html,body{font-size: 16px;}
+    .nav{margin-top: 0px;}
+    h2{margin-bottom: 25px;
+        font-size: 100%;}
+    .h2-wrap{ width: 340px;}
+    .glide-wrapper{margin-top: 140px}
+}
+
+@media only screen and (max-width: 425px){
+    .h2-wrap{ width: 300px;}      
+}
+
+@media only screen and (max-width: 320px){
+    html,body{font-size: 12px;}
+    h1{padding: 20px; font-size: 250%;}
+    h2{font-size: 150%;}
+    .h2-wrap{ width: 255px;}
+}
