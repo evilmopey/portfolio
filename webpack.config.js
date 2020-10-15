@@ -60,6 +60,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
+            favicon: "src/img/favicon.png",
             filename: 'index.html',
             template: 'src/index.html',
             title: 'Ethereal Coder',
